@@ -11,5 +11,9 @@
   "devDependencies": {
   },
   "author": "Adrian Leonhard <adrianleonhard@gmail.com> (https://github.com/NaridaL)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NaridaL/subtractiontype.ts.git"
+  }
 }
