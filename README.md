@@ -1,5 +1,7 @@
 # subtractiontype.ts
 Subtraction types for TypeScript: e.g. `Sub<'a' | 'b', 'a'>` and `Dissoc<{a: number, b: number}, 'a'>`.
+## Typescript >= 2.8
+Since 2.8, `Exclude`, which behaves like `Sub` below, is included with TypeScript. Use that instead.
 ## Installation
 ```
 npm install --save-dev subtractiontype.ts
